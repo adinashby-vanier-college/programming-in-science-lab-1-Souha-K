@@ -15,10 +15,12 @@ def input_output():
     print('You are ' + str(age) + ' years old.')
     print('Your height is ' + str(height) + ' meters.')
 
-
 # Enter your name: Alice
 # Enter your age: 25
 # Enter your height: 5.7
 # Hello, Alice!
 # You are 25 years old.
 # Your height is 5.7 meters.
+
+# hello_world()
+# input_output()
